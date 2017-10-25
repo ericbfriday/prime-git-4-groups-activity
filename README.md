@@ -18,10 +18,10 @@ Do this activity in your pod before next week's 2nd Git4Groups Lecture.
 ## Git4Groups Steps
 ### No Conflicts
 1. Git pull. Git the most up to date master.
-2. Create a new brach for your ticket/feature.
+2. Create a new branch for your ticket/feature.
 3. Do the work and commit it to the branch.
 4. Push the branch to github. Try `$: git push`, it wont work because it is a new branch, but it will spit out the command you need.
-5. Open a Pull Request. Add a team member or two as a reviewers. Follow[this documentation](https://help.github.com/articles/creating-a-pull-request/)if you need help doing this. 
+5. Open a Pull Request. Add a team member or two as a reviewers. Follow [this documentation](https://help.github.com/articles/creating-a-pull-request/) if you need help doing this. 
 6. Once they review it, you can hit the `merge` button on the github ui. This will incorporate the changes from your feature branch into the remote version of master. 
 7. To start another feature go back to master and start with a pull to get down the new version of master.
 8. You can clean up the feature branch locally and on the remote any time. (See Delete Branches)
