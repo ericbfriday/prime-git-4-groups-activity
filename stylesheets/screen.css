@@ -82,3 +82,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .mike h1 {
   flex: 1;
 }
+
+/* line 24, ../sass/screen.scss */
+.megaHeader {
+  height: 50px;
+  background: black;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}
